@@ -308,6 +308,16 @@
           "id":1,
           "name":"Ensalada cesar",
           "quantity":2
+        },
+        {
+          "id":2,
+          "name":"Arroz chaufa",
+          "quantity":5
+        },
+        {
+          "id":3,
+          "name":"Ceviche",
+          "quantity":18
         }
       ],
       "segundo":[
