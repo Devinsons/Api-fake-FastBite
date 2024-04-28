@@ -300,5 +300,34 @@
         ],
         "restaurantId": 5
     }
-    ]
+    ],
+    "orders":{
+      "id":1,
+      "entradas":[
+        {
+          "id":1,
+          "name":"Ensalada cesar",
+          "quantity":2
+        }
+      ],
+      "segundo":[
+        {
+          "id":1,
+          "name":"Lomo saltado",
+          "quantity":1
+        }
+      ],
+      "bebidas":[
+        {
+          "id":1,
+          "name":"Limonada",
+          "quantity":1
+        }
+      ],
+      "tiempoEntrega": "30 minutos",
+      "state":"En preparacion",
+      "fecha":"2023-05-01",
+      "restaurantId":1,
+      "userId":1
+    }
   }
