@@ -340,14 +340,14 @@
       "restaurantId":1,
       "userId":1
     },
-    "user": [
-      {
-        "name" : "Eduardo",
-        "lastname" : "Chero Emé",
-        "email": "ednoru36598@gmail.com",
-        "phone": "998868345",
-        "urlToImage": "https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg"
-      }],
+    "users":{
+      "name" : "Eduardo",
+      "lastname" : "Chero Emé",
+      "email": "ednoru36598@gmail.com",
+      "phone": "998868345",
+      "address": "Av. Victor A. Bealaúnde 171, San Isidro",
+      "urlToImage": "https://media.licdn.com/dms/image/D4E03AQHlr_xkD0CkNQ/profile-displayphoto-shrink_200_200/0/1684094514729?e=2147483647&v=beta&t=_S8YXbdxvi9EijwB3HCnGkS833IH1n1frXTyXFUFcS4"
+    },
       "empresas": [
         {
           "id": 1,
