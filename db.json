@@ -393,16 +393,6 @@
       "fecha":"2023-05-01",
       "restaurantId":1,
       "userId":1
-    },
-    {
-      "id":3,
-      "name":"leche de tigre",
-      "type":"segundo",
-      "tiempoEntrega": "30 minutos",
-      "state":"Listo para entregar",
-      "fecha":"2023-05-01",
-      "restaurantId":1,
-      "userId":1
     }
   ]
 }
