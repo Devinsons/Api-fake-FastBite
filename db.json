@@ -55,14 +55,16 @@
           "name": "Ensalada cesar",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage": "https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg"
+          "urlToImage": "https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg",
+          "type": "entrada"
         },
         {
           "id": 2,
           "name": "Ceviche",
           "category": "Saludable",
           "stock": 40,
-          "urlToImage": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600_square.jpg"
+          "urlToImage": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600_square.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -71,14 +73,16 @@
           "name": "Lomo saltado",
           "category": "Normal",
           "stock": 90,
-          "urlToImage": "https://i.ytimg.com/vi/sWXRJbGi6yQ/maxresdefault.jpg"
+          "urlToImage": "https://i.ytimg.com/vi/sWXRJbGi6yQ/maxresdefault.jpg",
+          "type": "segundo"
         },
         {
           "id": 2,
           "name": "Arroz con pollo",
           "category": "Normal",
           "stock": 110,
-          "urlToImage": "https://i.ytimg.com/vi/H6lgxgEWIs8/maxresdefault.jpg"
+          "urlToImage": "https://i.ytimg.com/vi/H6lgxgEWIs8/maxresdefault.jpg",
+          "type": "segundo"
         }
       ],
       "bebidas": [
@@ -87,7 +91,8 @@
           "name": "Limonada",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage": "https://www.ahorrarnuncafuetanbueno.com.pe/wp-content/uploads/2022/02/Limonada_frozen_912x700.jpg"
+          "urlToImage": "https://www.ahorrarnuncafuetanbueno.com.pe/wp-content/uploads/2022/02/Limonada_frozen_912x700.jpg",
+          "type": "bebida"
         }
       ],
       "restaurantId": 1
@@ -100,14 +105,16 @@
           "name": "Sopa de verduras",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage": "https://mejorconsalud.as.com/wp-content/uploads/2018/07/sopa-verduras-1.jpg"
+          "urlToImage": "https://mejorconsalud.as.com/wp-content/uploads/2018/07/sopa-verduras-1.jpg",
+          "type": "entrada"
         },
         {
           "id": 2,
           "name": "Empanadas de pollo",
           "category": "Normal",
           "stock": 90,
-          "urlToImage": "https://i.ytimg.com/vi/OwxCamJYJWE/maxresdefault.jpg"
+          "urlToImage": "https://i.ytimg.com/vi/OwxCamJYJWE/maxresdefault.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -116,14 +123,16 @@
           "name": "Pescado a la plancha",
           "category": "Saludable",
           "stock": 80,
-          "urlToImage": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/01/como-marinar-pescado-la-plancha.jpg"
+          "urlToImage": "https://cdn2.cocinadelirante.com/sites/default/files/styles/gallerie/public/images/2020/01/como-marinar-pescado-la-plancha.jpg",
+          "type": "segundo"
         },
         {
           "id": 2,
           "name": "Pollo al horno",
           "category": "Normal",
           "stock": 40,
-          "urlToImage": "https://imag.bonviveur.com/pollo-asado-al-horno-con-patatas.jpg"
+          "urlToImage": "https://imag.bonviveur.com/pollo-asado-al-horno-con-patatas.jpg",
+          "type": "segundo"
         }
       ],
       "bebidas": [
@@ -132,14 +141,16 @@
           "name": "Jugo de naranja",
           "category": "Normal",
           "stock": 200,
-          "urlToImage":"https://media.vogue.mx/photos/5ecbbb4df863d188d6f3185c/master/w_1600%2Cc_limit/jugo-de-naranja--naranja.jpg"
+          "urlToImage":"https://media.vogue.mx/photos/5ecbbb4df863d188d6f3185c/master/w_1600%2Cc_limit/jugo-de-naranja--naranja.jpg",
+          "type": "bebida"
         },
         {
           "id": 2,
           "name": "Cerveza artesanal",
           "category": "Saludable",
           "stock": 700,
-          "urlToImage":"https://www.donbarril.com/wp-content/uploads/2019/10/shop-de-cerveza-artesanal-de-don-barril.jpg"
+          "urlToImage":"https://www.donbarril.com/wp-content/uploads/2019/10/shop-de-cerveza-artesanal-de-don-barril.jpg",
+          "type": "bebida"
         }
       ],
       "restaurantId": 2
@@ -152,14 +163,16 @@
           "name": "Bruschetta",
           "category": "Normal",
           "stock": 70,
-          "urlToImage":"https://www.clarin.com/img/2022/12/22/UwCUEP0SQ_1200x630__1.jpg"
+          "urlToImage":"https://www.clarin.com/img/2022/12/22/UwCUEP0SQ_1200x630__1.jpg",
+          "type": "entrada"
         },
         {
           "id": 2,
           "name": "Calamares fritos",
           "category": "Normal",
           "stock": 90,
-          "urlToImage":"https://imag.bonviveur.com/calamares-a-la-romana-fritos.jpg"
+          "urlToImage":"https://imag.bonviveur.com/calamares-a-la-romana-fritos.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -168,14 +181,16 @@
           "name": "Risotto de champiñones",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage":"https://www.comedera.com/wp-content/uploads/2023/08/risotto-de-champinones-y-espinacas.jpg"
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2023/08/risotto-de-champinones-y-espinacas.jpg",
+          "type": "segundo"
         },
         {
           "id": 2,
           "name": "Filete de ternera",
           "category": "Normal",
           "stock": 200,
-          "urlToImage":"https://i.ytimg.com/vi/O3Xv3Mnk1Nk/sddefault.jpg"
+          "urlToImage":"https://i.ytimg.com/vi/O3Xv3Mnk1Nk/sddefault.jpg",
+          "type": "segundo"
         }
       ],
       "bebidas": [
@@ -184,14 +199,16 @@
           "name": "Vino tinto",
           "category": "Saludable",
           "stock": 10,
-          "urlToImage":"https://plazavea.vteximg.com.br/arquivos/ids/15118920-512-512/1072875002.jpg"
+          "urlToImage":"https://plazavea.vteximg.com.br/arquivos/ids/15118920-512-512/1072875002.jpg",
+          "type": "bebida"
         },
         {
           "id": 2,
           "name": "Agua mineral",
           "category": "Saludable",
           "stock": 700,
-          "urlToImage":"https://static.mercadonegro.pe/wp-content/uploads/2017/07/22194845/embotellada.jpg"
+          "urlToImage":"https://static.mercadonegro.pe/wp-content/uploads/2017/07/22194845/embotellada.jpg",
+          "type": "bebida"
         }
       ],
       "restaurantId": 3
@@ -204,14 +221,16 @@
           "name": "Ensalada César",
           "category": "Saludable",
           "stock": 80,
-          "urlToImage":"https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg"
+          "urlToImage":"https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg",
+          "type": "entrada"
         },
         {
           "id": 2,
           "name": "Nachos con queso",
           "category": "Normal",
           "stock": 60,
-          "urlToImage":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-main-1.jpg"
+          "urlToImage":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-main-1.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -220,14 +239,16 @@
           "name": "Pollo a la parrilla",
           "category": "Saludable",
           "stock": 75,
-          "urlToImage":"https://i.ytimg.com/vi/7tUyizxQwKM/maxresdefault.jpg"
+          "urlToImage":"https://i.ytimg.com/vi/7tUyizxQwKM/maxresdefault.jpg",
+          "type": "segundo"
         },
         {
           "id": 2,
           "name": "Hamburguesa de ternera",
           "category": "Normal",
           "stock": 65,
-          "urlToImage":"https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/SPAIN/calcmenu/recipes/ES-recipes/general/hamburguesa-de-ternera-al-pesto/main-header.jpg"
+          "urlToImage":"https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/SPAIN/calcmenu/recipes/ES-recipes/general/hamburguesa-de-ternera-al-pesto/main-header.jpg",
+          "type": "segundo"
         }
       ],
       "bebidas": [
@@ -236,14 +257,16 @@
           "name": "Jugo de naranja",
           "category": "Saludable",
           "stock": 85,
-          "urlToImage":"https://eurofitness.com/wp-content/uploads/2021/06/zumo-de-naranja-natural.jpg"
+          "urlToImage":"https://eurofitness.com/wp-content/uploads/2021/06/zumo-de-naranja-natural.jpg",
+          "type": "bebida"
         },
         {
           "id": 2,
           "name": "Cerveza",
           "category": "Normal",
           "stock": 90,
-          "urlToImage":"https://www.donbarril.com/wp-content/uploads/2019/10/shop-de-cerveza-artesanal-de-don-barril.jpg"
+          "urlToImage":"https://www.donbarril.com/wp-content/uploads/2019/10/shop-de-cerveza-artesanal-de-don-barril.jpg",
+          "type": "bebida"
         }
       ],
       "restaurantId": 4
@@ -256,14 +279,16 @@
           "name": "Gazpacho",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage":"https://www.allrecipes.com/thmb/d_1S6Av48F5LBfP-Z4W8VTD9U4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222331-Chef-Johns-Gazpacho-ddmfs-4x3-2781-67624a59fa4c4375b9149d06f6c32348.jpg"
+          "urlToImage":"https://www.allrecipes.com/thmb/d_1S6Av48F5LBfP-Z4W8VTD9U4I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/222331-Chef-Johns-Gazpacho-ddmfs-4x3-2781-67624a59fa4c4375b9149d06f6c32348.jpg",
+          "type": "entrada"
         },
         {
           "id": 2,
           "name": "Patatas bravas",
           "category": "Normal",
           "stock": 80,
-          "urlToImage":"https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg"
+          "urlToImage":"https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -272,14 +297,16 @@
           "name": "Pescado al horno",
           "category": "Saludable",
           "stock": 75,
-          "urlToImage":"https://www.comedera.com/wp-content/uploads/2022/02/pescado-al-horno-shutterstock_1919784281.jpg"
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2022/02/pescado-al-horno-shutterstock_1919784281.jpg",
+          "type": "segundo"
         },
         {
           "id": 2,
           "name": "Paella",
           "category": "Normal",
           "stock": 85,
-          "urlToImage":"https://images.immediate.co.uk/production/volatile/sites/30/2018/06/Oven-paella-5d16b06.jpg?resize=768,574"
+          "urlToImage":"https://images.immediate.co.uk/production/volatile/sites/30/2018/06/Oven-paella-5d16b06.jpg?resize=768,574",
+          "type": "segundo"
         }
       ],
       "bebidas": [
@@ -288,14 +315,16 @@
           "name": "Agua con limón",
           "category": "Saludable",
           "stock": 90,
-          "urlToImage":"https://www.waterlogic.es/media/spain/shared/images/blog/water-with-lemon.jpg"
+          "urlToImage":"https://www.waterlogic.es/media/spain/shared/images/blog/water-with-lemon.jpg",
+          "type": "bebida"
         },
         {
           "id": 2,
           "name": "Sangría",
           "category": "Normal",
           "stock": 80,
-          "urlToImage":"https://www.hola.com/imagenes/cocina/recetas/20200514167988/receta-sangria-clasica/0-823-899/sangria-t.jpg?im=Resize=(680)"
+          "urlToImage":"https://www.hola.com/imagenes/cocina/recetas/20200514167988/receta-sangria-clasica/0-823-899/sangria-t.jpg?im=Resize=(680)",
+          "type": "bebida"
         }
       ],
       "restaurantId": 5
