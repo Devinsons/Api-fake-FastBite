@@ -52,7 +52,7 @@
       "entradas": [
         {
           "id": 1,
-          "name": "Ensalada cesar",
+          "name": "Ensalada Cesar",
           "category": "Saludable",
           "stock": 70,
           "urlToImage": "https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg",
@@ -64,6 +64,14 @@
           "category": "Saludable",
           "stock": 40,
           "urlToImage": "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600_square.jpg",
+          "type": "entrada"
+        },
+        {
+          "id": 3,
+          "name": "Papa a la Huancaina",
+          "category": "Saludable",
+          "stock": 50,
+          "urlToImage": "https://imgmedia.buenazo.pe/652x359/buenazo/original/2020/09/25/5f6eaf8e2810e95b5c5da50c.webp",
           "type": "entrada"
         }
       ],
@@ -81,6 +89,14 @@
           "name": "Arroz con pollo",
           "category": "Normal",
           "stock": 110,
+          "urlToImage": "https://i.ytimg.com/vi/H6lgxgEWIs8/maxresdefault.jpg",
+          "type": "segundo"
+        },
+        {
+          "id": 3,
+          "name": "Tallarines verdes",
+          "category": "Normal",
+          "stock": 130,
           "urlToImage": "https://i.ytimg.com/vi/H6lgxgEWIs8/maxresdefault.jpg",
           "type": "segundo"
         }
