@@ -55,7 +55,7 @@
           "name": "Ensalada Cesar",
           "category": "Saludable",
           "stock": 70,
-          "urlToImage": "https://saboreaunohoy.com/wp-content/uploads/Love-One-Today-featured-avocado-recipe-Springtime-Cobb-Salad-with-Avocado-Dijon-Dressing.jpg",
+          "urlToImage": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_César-web-553x458.jpg",
           "type": "entrada"
         },
         {
@@ -97,7 +97,7 @@
           "name": "Tallarines verdes",
           "category": "Normal",
           "stock": 130,
-          "urlToImage": "https://i.ytimg.com/vi/H6lgxgEWIs8/maxresdefault.jpg",
+          "urlToImage": "https://imag.bonviveur.com/tallarines-verdes-peruanos-servidos-en-un-plato.jpg",
           "type": "segundo"
         }
       ],
@@ -131,6 +131,14 @@
           "stock": 90,
           "urlToImage": "https://i.ytimg.com/vi/OwxCamJYJWE/maxresdefault.jpg",
           "type": "entrada"
+        },
+        {
+          "id": 3,
+          "name": "Tequeños",
+          "category": "Normal",
+          "stock": 50,
+          "urlToImage": "https://panaderialalos.com/wp-content/uploads/2021/03/Tequenos-1.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -148,6 +156,14 @@
           "category": "Normal",
           "stock": 40,
           "urlToImage": "https://imag.bonviveur.com/pollo-asado-al-horno-con-patatas.jpg",
+          "type": "segundo"
+        },
+        {
+          "id": 3,
+          "name": "Pollo a la plancha",
+          "category": "Normal",
+          "stock": 60,
+          "urlToImage": "https://express.donangelo.pe/wp-content/uploads/2022/04/WhatsApp-Image-2022-05-28-at-1.26.47-PM-4.jpeg",
           "type": "segundo"
         }
       ],
@@ -189,6 +205,14 @@
           "stock": 90,
           "urlToImage":"https://imag.bonviveur.com/calamares-a-la-romana-fritos.jpg",
           "type": "entrada"
+        },
+        {
+          "id": 3,
+          "name": "Papa Rellena",
+          "category": "Saludable",
+          "stock": 50,
+          "urlToImage":"https://i.ytimg.com/vi/VSWIJK58cOg/maxresdefault.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -206,6 +230,14 @@
           "category": "Normal",
           "stock": 200,
           "urlToImage":"https://i.ytimg.com/vi/O3Xv3Mnk1Nk/sddefault.jpg",
+          "type": "segundo"
+        },
+        {
+          "id": 3,
+          "name": "Pasta a la carbonara",
+          "category": "Normal",
+          "stock": 60,
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2023/08/pasta-a-la-carbonara.jpg",
           "type": "segundo"
         }
       ],
@@ -247,6 +279,14 @@
           "stock": 60,
           "urlToImage":"https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2022/03/Nachos-main-1.jpg",
           "type": "entrada"
+        },
+        {
+          "id": 3,
+          "name": "Ceviche",
+          "category": "Saludable",
+          "stock": 70,
+          "urlToImage":"https://www.elespectador.com/resizer/tyGJPN_YmWpagQFeXq_YYOxAKjY=/arc-anglerfish-arc2-prod-elespectador/public/2AVD5Z6Y2ZFWHETPQGCPLMNK4A.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -264,6 +304,14 @@
           "category": "Normal",
           "stock": 65,
           "urlToImage":"https://www.unileverfoodsolutions.es/dam/global-ufs/mcos/SPAIN/calcmenu/recipes/ES-recipes/general/hamburguesa-de-ternera-al-pesto/main-header.jpg",
+          "type": "segundo"
+        },
+        {
+          "id": 3,
+          "name": "Pizza",
+          "category": "Normal",
+          "stock": 80,
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2022/02/pizza-casera.jpg",
           "type": "segundo"
         }
       ],
@@ -305,6 +353,14 @@
           "stock": 80,
           "urlToImage":"https://coosol.es/wp-content/uploads/2023/05/patatas-fritas-salsa-tomate-hierbas-sarten-hierro-fundido-1-768x525.jpg",
           "type": "entrada"
+        },
+        {
+          "id": 3,
+          "name": "Croquetas de jamón",
+          "category": "Normal",
+          "stock": 90,
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2022/02/croquetas-de-jamon.jpg",
+          "type": "entrada"
         }
       ],
       "segundo": [
@@ -322,6 +378,14 @@
           "category": "Normal",
           "stock": 85,
           "urlToImage":"https://images.immediate.co.uk/production/volatile/sites/30/2018/06/Oven-paella-5d16b06.jpg?resize=768,574",
+          "type": "segundo"
+        },
+        {
+          "id": 3,
+          "name": "Tortilla de papas",
+          "category": "Normal",
+          "stock": 95,
+          "urlToImage":"https://www.comedera.com/wp-content/uploads/2022/02/tortilla-de-patatas.jpg",
           "type": "segundo"
         }
       ],
